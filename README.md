@@ -1,6 +1,6 @@
 # my-demo
 
-> A Vue.js project
+> css样式还未完善
 
 ## Build Setup
 
